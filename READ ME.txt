@@ -27,3 +27,4 @@ tozihat :
     Main :
          
          thread barnameye asli 
+         hameye file ha ra dar yek poshe gharar dahid
