@@ -1,0 +1,29 @@
+Modules needed :
+
+    numpy
+    scipy
+    matplotlib
+    pyaudio
+    struct
+    pocketsphinx
+    speechrecognition
+
+tozihat :
+    
+    SpectrumGraph :
+
+         yek thread baraye greftan seda az microphone va tabdil an be signal digital
+         piyade shode ast. (streamThread)
+
+         baraye namayeshe signal as matplotlib estefade shode ast.
+         taghirat signal bar araye data_np emal shode va tavasot metod canvas.draw()
+         va canvas.flush_events() update mishavad.
+    
+    VoiceRecognition :
+         
+         estefade as module pyaudio baraye gereftan seda va pardazesh on ba module 
+         speech_recognition
+
+    Main :
+         
+         thread barnameye asli 
