@@ -10,7 +10,7 @@ Modules needed :
 
 tozihat :
     
-    SpectrumGraph :
+    SpectrumGraph.py :
 
          yek thread baraye greftan seda az microphone va tabdil an be signal digital
          piyade shode ast. (streamThread)
@@ -19,12 +19,22 @@ tozihat :
          taghirat signal bar araye data_np emal shode va tavasot metod canvas.draw()
          va canvas.flush_events() update mishavad.
     
-    VoiceRecognition :
+    VoiceRecognition.py :
          
          estefade as module pyaudio baraye gereftan seda va pardazesh on ba module 
          speech_recognition
 
-    Main :
+    Main.py :
          
          thread barnameye asli 
-         hameye file ha ra dar yek poshe gharar dahid
+    
+    run :
+
+         hameye file ha ra dar yek poshe gharar dahid va main ra dar IDLE ejra konid
+
+    Azaye groh :
+      
+         Ali Abdolahi 3961231071 gp2
+         Mehdi Akbari 3961231005 gp3
+         
+
